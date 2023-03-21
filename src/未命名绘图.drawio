@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T07:37:35.641Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="BwtnziobOCv6sjlLJ-b6" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-21T08:42:19.000Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="V249D4pU9Y2IiWvRwGVo" version="21.0.8" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1306" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value="登录组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="145" y="70" width="100" height="730" as="geometry" />
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value="登录组件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#D6FDA4;" parent="1" vertex="1">
+          <mxGeometry x="145" y="70" width="100" height="1230" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-1" vertex="1">
-          <mxGeometry x="45" y="70" width="10" height="620" as="geometry" />
+          <mxGeometry x="45" y="70" width="10" height="990" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-3" value="点击发送验证码" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="aM9ryv3xv72pqoxQDRHE-1" target="aM9ryv3xv72pqoxQDRHE-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -16,16 +16,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-1" vertex="1">
-          <mxGeometry x="55" y="460" width="10" height="80" as="geometry" />
+          <mxGeometry x="55" y="940" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="User Center" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="370" y="70" width="100" height="580" as="geometry" />
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-40" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-1">
+          <mxGeometry x="55" y="370" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="User Center" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#FFFED1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="80" width="100" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bPiqmxIRWB-NMURWcTcw-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-5">
-          <mxGeometry x="45" y="460" width="10" height="60" as="geometry" />
+          <mxGeometry x="45" y="740" width="10" height="170" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-7" value="发起&lt;font color=&quot;#0000cc&quot;&gt;登录申请&lt;/font&gt;（接口1）" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-2" target="aM9ryv3xv72pqoxQDRHE-6" edge="1">
           <mxGeometry x="0.0049" relative="1" as="geometry">
@@ -36,8 +39,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bPiqmxIRWB-NMURWcTcw-1" value="Yoda" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="594" y="70" width="100" height="490" as="geometry" />
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-1" value="Yoda" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#E49F9A;" vertex="1" parent="1">
+          <mxGeometry x="594" y="70" width="100" height="990" as="geometry" />
         </mxCell>
         <mxCell id="bPiqmxIRWB-NMURWcTcw-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="bPiqmxIRWB-NMURWcTcw-1">
           <mxGeometry x="45" y="80" width="10" height="90" as="geometry" />
@@ -46,7 +49,16 @@
           <mxGeometry x="45" y="200" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bPiqmxIRWB-NMURWcTcw-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="bPiqmxIRWB-NMURWcTcw-1">
-          <mxGeometry x="45" y="310" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="310" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-52" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="bPiqmxIRWB-NMURWcTcw-1">
+          <mxGeometry x="45" y="480" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-58" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="bPiqmxIRWB-NMURWcTcw-1">
+          <mxGeometry x="45.5" y="658" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-67" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="bPiqmxIRWB-NMURWcTcw-1">
+          <mxGeometry x="45" y="770" width="10" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bPiqmxIRWB-NMURWcTcw-3" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -81,7 +93,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bPiqmxIRWB-NMURWcTcw-18" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;获取页面信息，传入&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#0000cc&quot;&gt;短信验证&amp;nbsp;requestCode&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;（接口2）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-18" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;获取页面信息，传入&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#0000cc&quot;&gt;短信验证&amp;nbsp;requestCode&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;（接口2）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="260" y="260" width="340" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bPiqmxIRWB-NMURWcTcw-27" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;entryX=0;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
@@ -96,8 +108,135 @@
             <mxPoint x="200.75" y="329" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bPiqmxIRWB-NMURWcTcw-30" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;返回页面信息，&lt;/span&gt;&lt;font color=&quot;#0000cc&quot;&gt;短信验证&amp;nbsp;requestCode&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-30" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;返回页面信息，返回&lt;/span&gt;&lt;font color=&quot;#0000cc&quot;&gt;短信验证&amp;nbsp;requestCode&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="270" y="299" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-36" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="399" as="sourcePoint" />
+            <mxPoint x="639" y="399" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-37" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;请求发送短信，&lt;/span&gt;传入&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#0000cc&quot;&gt;短信验证&amp;nbsp;requestCode&lt;/font&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;（接口3）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="370" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-38" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="639" y="432" as="sourcePoint" />
+            <mxPoint x="200" y="432" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-39" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;发送短信成功&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="410" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-41" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="639" y="463" as="sourcePoint" />
+            <mxPoint x="210" y="463" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-42" value="发送短信失败，提示需要滑块验证，并返回&lt;font color=&quot;#990099&quot;&gt;滑块验证&amp;nbsp;requestCode&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="438" width="370" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-50" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="490" as="sourcePoint" />
+            <mxPoint x="210" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="490" />
+              <mxPoint x="280" y="490" />
+              <mxPoint x="280" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-51" value="加载 Yoda 前端组件，&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;传入&lt;/span&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#990099&quot;&gt;滑块验证&amp;nbsp;requestCode&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="494" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-53" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210.5" y="570" as="sourcePoint" />
+            <mxPoint x="640" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-54" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;请求发送短信，&lt;/span&gt;传入&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#0000cc&quot;&gt;短信验证&amp;nbsp;requestCode&lt;/font&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;（接口3）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="271" y="545" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-56" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="600" as="sourcePoint" />
+            <mxPoint x="211" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-57" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;发送短信成功&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="244" y="575" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-59" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;entryX=0;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="201" y="748" as="sourcePoint" />
+            <mxPoint x="640" y="748.36" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-60" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;验证短信验证码&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;（接口4）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260.5" y="720" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-63" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="640" as="sourcePoint" />
+            <mxPoint x="200" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="640" />
+              <mxPoint x="270" y="640" />
+              <mxPoint x="270" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-64" value="用户填写短信验证码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="649" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-65" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="639.5" y="782" as="sourcePoint" />
+            <mxPoint x="200" y="782" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-66" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;验证短信成功，返回&lt;font color=&quot;#0000cc&quot;&gt;短信验证成功&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;font color=&quot;#0000cc&quot;&gt;requestCode&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260.5" y="756" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-68" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="bPiqmxIRWB-NMURWcTcw-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="202" y="840" as="sourcePoint" />
+            <mxPoint x="410" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-70" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;发起登录请求，传入&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#0000cc&quot;&gt;短信验证成功&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 12px; background-color: rgb(251, 251, 251);&quot; color=&quot;#0000cc&quot;&gt;requestCode&lt;/font&gt;（接口5）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="800" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-71" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="861" as="sourcePoint" />
+            <mxPoint x="639" y="861" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-72" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;查看验证结果&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="437" y="834" width="196" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-73" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="635" y="899" as="sourcePoint" />
+            <mxPoint x="426" y="899" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-74" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;返回验证结果&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="454" y="874" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-75" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="929" as="sourcePoint" />
+            <mxPoint x="194.5" y="929" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bPiqmxIRWB-NMURWcTcw-76" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#990000&quot;&gt;登录成功，返回登录 Token，流程结束&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="891" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
