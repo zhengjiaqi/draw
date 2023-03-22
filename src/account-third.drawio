@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T03:30:04.610Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="OMLuhTtuJ026ATFMLPuG" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T04:19:28.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="JRDgqERv0CTEcyJC7t2Z" version="21.0.8" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2156" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="5poNSGUSoTGOrr6AFEc5-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="5poNSGUSoTGOrr6AFEc5-7">
           <mxGeometry x="45" y="740" width="10" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="5poNSGUSoTGOrr6AFEc5-10" value="发起&lt;font color=&quot;#0000cc&quot;&gt;三方登录申请&lt;/font&gt;（接口1）" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="5poNSGUSoTGOrr6AFEc5-10" value="发起&lt;font color=&quot;#0000cc&quot;&gt;三方登录验证申请&lt;/font&gt;（接口1）" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0047" relative="1" as="geometry">
             <mxPoint x="200" y="163" as="sourcePoint" />
             <Array as="points">
