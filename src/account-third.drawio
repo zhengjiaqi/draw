@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T11:35:44.719Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="8fCgGXcF69eAY9rGeA0l" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T11:36:15.364Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Q9UkVSKodlhQwgSro00c" version="21.0.8" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2156" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -153,7 +153,7 @@
           <mxGeometry x="200" y="720" width="10" height="180" as="geometry" />
         </mxCell>
         <mxCell id="5poNSGUSoTGOrr6AFEc5-106" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="405" y="820" width="10" height="80" as="geometry" />
+          <mxGeometry x="405" y="810" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5poNSGUSoTGOrr6AFEc5-107" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -166,34 +166,34 @@
         </mxCell>
         <mxCell id="5poNSGUSoTGOrr6AFEc5-109" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="212" y="755" as="sourcePoint" />
-            <mxPoint x="212" y="805" as="targetPoint" />
+            <mxPoint x="210" y="740" as="sourcePoint" />
+            <mxPoint x="210" y="790" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="232" y="755" />
-              <mxPoint x="232" y="805" />
+              <mxPoint x="230" y="740" />
+              <mxPoint x="230" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5poNSGUSoTGOrr6AFEc5-110" value="加载 Yoda 二次放号组件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="245" y="765" width="150" height="30" as="geometry" />
+          <mxGeometry x="243" y="750" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5poNSGUSoTGOrr6AFEc5-111" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="212" y="850" as="sourcePoint" />
-            <mxPoint x="400" y="850" as="targetPoint" />
+            <mxPoint x="212" y="840" as="sourcePoint" />
+            <mxPoint x="400" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5poNSGUSoTGOrr6AFEc5-112" value="&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; background-color: rgb(255, 255, 255); font-size: 11px;&quot;&gt;发起 h5 风控登录请求，&lt;br&gt;传入&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#0000cc&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#0000cc&quot;&gt;requestCode、st&lt;/font&gt;&lt;/font&gt;（接口3）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="220" y="810" width="177" height="20" as="geometry" />
+          <mxGeometry x="220" y="800" width="177" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5poNSGUSoTGOrr6AFEc5-113" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" edge="1" parent="1" source="5poNSGUSoTGOrr6AFEc5-106">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="413.25" y="885" as="sourcePoint" />
-            <mxPoint x="212" y="885" as="targetPoint" />
+            <mxPoint x="413.25" y="875" as="sourcePoint" />
+            <mxPoint x="212" y="875" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5poNSGUSoTGOrr6AFEc5-114" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#006600&quot;&gt;三方登录成功&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="216.5" y="860" width="196" height="20" as="geometry" />
+          <mxGeometry x="216.5" y="850" width="196" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
