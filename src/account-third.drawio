@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T07:04:07.206Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="qFXDzENz7va1RENgYxsO" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T07:21:48.251Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="scfp1MUr9wKreBzx1Oe2" version="21.0.8" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2156" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry x="55" y="890" width="10" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5poNSGUSoTGOrr6AFEc5-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" vertex="1" parent="5poNSGUSoTGOrr6AFEc5-1">
-          <mxGeometry x="55" y="160" width="10" height="170" as="geometry" />
+          <mxGeometry x="55" y="160" width="10" height="180" as="geometry" />
         </mxCell>
         <mxCell id="5poNSGUSoTGOrr6AFEc5-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#666666;" vertex="1" parent="5poNSGUSoTGOrr6AFEc5-1">
           <mxGeometry x="55" y="1010" width="10" height="180" as="geometry" />
@@ -242,12 +242,21 @@
         </mxCell>
         <mxCell id="5poNSGUSoTGOrr6AFEc5-85" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="212" y="390" as="sourcePoint" />
-            <mxPoint x="410" y="390" as="targetPoint" />
+            <mxPoint x="210" y="370" as="sourcePoint" />
+            <mxPoint x="408" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5poNSGUSoTGOrr6AFEc5-86" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;发起三方登录请求，传入&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#0000cc&quot;&gt;短信验证成功&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 12px; background-color: rgb(251, 251, 251);&quot; color=&quot;#0000cc&quot;&gt;requestCode&lt;/font&gt;（接口5）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="240" y="350" width="170" height="20" as="geometry" />
+        <mxCell id="5poNSGUSoTGOrr6AFEc5-86" value="&lt;span style=&quot;font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;发起三方登录请求，&lt;br&gt;传入&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#0000cc&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#0000cc&quot;&gt;三方登录&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 12px; background-color: rgb(251, 251, 251);&quot; color=&quot;#0000cc&quot;&gt;ticket&lt;/font&gt;&lt;/font&gt;（接口2）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="238" y="330" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5poNSGUSoTGOrr6AFEc5-87" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="403" as="sourcePoint" />
+            <mxPoint x="208.75" y="403" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5poNSGUSoTGOrr6AFEc5-88" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#006600&quot;&gt;三方登录成功&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="213.25" y="378" width="196" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
