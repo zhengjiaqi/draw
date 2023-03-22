@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T11:35:34.341Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="57eS8GnJ50uLhcruo7DA" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T11:35:44.719Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="8fCgGXcF69eAY9rGeA0l" version="21.0.8" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2156" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -160,9 +160,6 @@
             <mxPoint x="412.62" y="730" as="sourcePoint" />
             <mxPoint x="211.37" y="730" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="5poNSGUSoTGOrr6AFEc5-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5poNSGUSoTGOrr6AFEc5-108" target="5poNSGUSoTGOrr6AFEc5-112">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5poNSGUSoTGOrr6AFEc5-108" value="三方登录失败，需进行二次放号，&lt;br&gt;返回&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#990099&quot;&gt;userTicket、st&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="214" y="690" width="196" height="20" as="geometry" />
